@@ -1,0 +1,1 @@
+You have recieved this text via an ajax request
